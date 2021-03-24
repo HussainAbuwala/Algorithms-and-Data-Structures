@@ -1,0 +1,16 @@
+subset 1:   		{}
+subset 2:   		{d}
+subset 3:   		{cd}
+subset 4:   		{c}
+subset 5:   		{bc}
+subset 6:   		{bcd}
+subset 7:   		{bd}
+subset 8:   		{b}
+subset 9:   		{ab}
+subset 10:   		{abd}
+subset 11:   		{abcd}
+subset 12:   		{abc}
+subset 13:   		{ac}
+subset 14:   		{acd}
+subset 15:   		{ad}
+subset 16:   		{a}
